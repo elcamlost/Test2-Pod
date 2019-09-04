@@ -4,9 +4,9 @@ require 5.008;
 use ExtUtils::MakeMaker;
 
 my %WriteMakefileArgs = (
-    NAME                => 'Test::Pod',
-    VERSION_FROM        => 'lib/Test/Pod.pm',
-    ABSTRACT_FROM       => 'lib/Test/Pod.pm',
+    NAME                => 'Test2::Pod',
+    VERSION_FROM        => 'lib/Test2/Pod.pm',
+    ABSTRACT_FROM       => 'lib/Test2/Pod.pm',
     AUTHOR              => 'David E. Wheeler <david@justatheory.com>',
     LICENSE             => 'perl_5',
 
