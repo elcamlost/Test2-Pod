@@ -1,4 +1,4 @@
-Change log for Test::Pod
+Change log for Test2::Pod
 
 0.01 2019-09-04
      - First version. Forked Test::Pod and reimplement Test::Builder logic with Test2::API
