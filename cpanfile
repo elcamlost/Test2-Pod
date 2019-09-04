@@ -1,0 +1,1 @@
+requires 'Test2::Suite', '>=0.000126';
